@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45173" started-at="2020-06-05T07:22:27Z" finished-at="2020-06-05T07:23:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45173" started-at="2020-06-05T07:22:27Z" finished-at="2020-06-05T07:23:12Z">
+      <class name="com.app.androidapp.scripts.TC_001_TestScript1">
+        <test-method status="PASS" signature="_LaunchApp()[pri:0, instance:com.app.androidapp.scripts.TC_001_TestScript1@1060b431]" name="_LaunchApp" is-config="true" duration-ms="37520" started-at="2020-06-05T07:22:27Z" finished-at="2020-06-05T07:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _LaunchApp -->
+        <test-method status="PASS" signature="tc_001_testOne()[pri:0, instance:com.app.androidapp.scripts.TC_001_TestScript1@1060b431]" name="tc_001_testOne" duration-ms="7269" started-at="2020-06-05T07:23:04Z" finished-at="2020-06-05T07:23:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_testOne -->
+        <test-method status="PASS" signature="shutDownApp()[pri:0, instance:com.app.androidapp.scripts.TC_001_TestScript1@1060b431]" name="shutDownApp" is-config="true" duration-ms="3" started-at="2020-06-05T07:23:12Z" finished-at="2020-06-05T07:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDownApp -->
+      </class> <!-- com.app.androidapp.scripts.TC_001_TestScript1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
